@@ -1,7 +1,7 @@
 name: network_gallery
 description: A new Flutter project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/arif2k17/network_gallery
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
