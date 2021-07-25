@@ -77,7 +77,7 @@ Widget build(BuildContext context) {
 
 ## Emailware
 
-Gallery Image is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this plugin or has helped you in anyway, I'd like you send me an email on <BeshoyMelika@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
+Network Gallery is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this plugin or has helped you in anyway, I'd like you send me an email on <BeshoyMelika@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
 
 ## Related
 
