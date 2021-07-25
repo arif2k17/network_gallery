@@ -1,10 +1,10 @@
-# Gallery Image plugin for Flutter
+# Network Gallery plugin for Flutter
 
 A Flutter plugin that list of images from URLs 
 
 
 <h1 align="center">
-  Gallery Image
+  Network Gallery
   <br>
 </h1>
 
@@ -39,11 +39,11 @@ A Flutter plugin that list of images from URLs
 
 ## Installation
 
-Add `galleryimage` as a dependency in your pubspec.yaml file .
+Add `network_gallery` as a dependency in your pubspec.yaml file .
 
 Import Photo View:
 ```dart
-import 'package:galleryimage/galleryimage.dart';
+import 'package:network_gallery/network_gallery.dart';
 ```
 
 ### Usage
@@ -67,7 +67,7 @@ List<String> listOfUrls= [
 @override
 Widget build(BuildContext context) {
   return Container(
-    child: GalleryImage(
+    child: NetworkGallery(
      imageUrls: listOfUrls,
     )
   );
